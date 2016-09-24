@@ -1,0 +1,3 @@
+Librerias a instalar para iniciar con webpack:
+	npm i -D webpack webpack-dev-server babel-loader babel-cli babel-preset-es2015
+
